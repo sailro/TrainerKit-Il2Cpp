@@ -1,8 +1,8 @@
-# TrainerKit
+# TrainerKit-Il@cpp
 
 [![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-lightgrey?logo=github&style=flat-square)](https://github.com/sponsors/sailro)
 
-`TrainerKit-Il2Cpp` is an extract of the Feature-system developed for [EscapeFromTarkov-Trainer](https://github.com/sailro/EscapeFromTarkov-Trainer), for games compiled with the Il2Cpp backend. For the Mono backend, you can use [TrainerKit](https://github.com/sailro/TrainerKit)
+`TrainerKit-Il2Cpp` is an extract of the Feature-system developed for [EscapeFromTarkov-Trainer](https://github.com/sailro/EscapeFromTarkov-Trainer), for games compiled with the Il2Cpp backend. For the Mono backend, you can use [TrainerKit](https://github.com/sailro/TrainerKit).
 
 `TrainerKit-Il2Cpp` simplifies the development of internal Unity trainers by handling:
 - UI rendering of features (everything is done automatically through reflection). Support for `Color`, `Float`, `Int`, `String`, `Bool`, `KeyCode` types.
