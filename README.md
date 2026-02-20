@@ -111,7 +111,7 @@ TrainerKit.Features.Commands.Y=10.0
 
 ## How to Use
 
-1- TrainerKit-Il2Cpp requires [Melon Loader](https://melonloader.co/download.html) installed for your game.
+1- `TrainerKit-Il2Cpp` requires [Melon Loader](https://melonloader.co/download.html) installed for your game.
 
 1- Starting from the source code, add the necessary references to the game you want to mod. You need at least:
 
