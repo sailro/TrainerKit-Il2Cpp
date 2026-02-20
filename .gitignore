@@ -1,0 +1,6 @@
+/lib/Unity*
+/lib/Assembly*
+.vs/
+bin/
+obj/
+*.user
