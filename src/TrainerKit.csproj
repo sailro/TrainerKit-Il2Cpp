@@ -80,4 +80,8 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <Target Name="CopyToMods" AfterTargets="Build">
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(GameMelonLoader)\..\Mods" />
+  </Target>
+
 </Project>
